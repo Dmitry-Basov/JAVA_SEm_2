@@ -1,0 +1,8 @@
+дек. 18, 2024 6:18:19 PM dz_1 BubbleSort
+INFO: Итерация 1: 1 4 2 5 8
+дек. 18, 2024 6:18:19 PM dz_1 BubbleSort
+INFO: Итерация 2: 1 2 4 5 8
+дек. 18, 2024 6:18:19 PM dz_1 BubbleSort
+INFO: Итерация 3: 1 2 4 5 8
+дек. 18, 2024 6:18:19 PM dz_1 BubbleSort
+INFO: Итерация 4: 1 2 4 5 8
